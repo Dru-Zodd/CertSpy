@@ -9,4 +9,4 @@ CertSpy is a powerful OSINT and legal pentesting tool that leverages the crt.sh 
 3. python3 CertSpy.py Example.com
 
 ## Disclaimer
-This tool is to be used for ethical and legal purposes only. That's the only acceptable user. The author of the program is not to be held responsible for the actions of those who break this policy.
+This tool is to be used for ethical and legal purposes only. That's the only acceptable use. The author of the program is not to be held responsible for the actions of those who break this policy.
