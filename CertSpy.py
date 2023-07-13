@@ -32,7 +32,7 @@ def get_subdomains(domain):
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python3 crtsh_subdomains.py <domain>")
+        print("Usage: python3 CertSpy.py <domain>")
         sys.exit(1)
 
     domain = sys.argv[1]
