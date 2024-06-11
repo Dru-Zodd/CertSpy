@@ -1,7 +1,7 @@
 # CertSpy
 ---
 ## Description
-CertSpy is a powerful OSINT and legal pentesting tool that leverages the crt.sh API to uncover hidden subdomains and enhance your security assessments.
+CertSpy is a simple OSINT and legal pentesting tool that leverages the crt.sh API to uncover hidden subdomains and enhance your security assessments.
 
 ## Installation & Usage
 1. Clone the repo: git clone https://github.com/S0KRAT3Z/CertSpy.git
